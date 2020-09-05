@@ -15,7 +15,7 @@ int main() {
         n=n/10;
     }
     printf("%d",rem);
-    //Complete the code to calculate the sum of the five digits on n.
+
     return 0;
 }
 
