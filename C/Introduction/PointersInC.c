@@ -8,7 +8,7 @@ void update(int *a,int *b)
     else
     *b=*b-*a;
     *a=temp;
-    // Complete this function    
+  
 }
 
 int main() {
