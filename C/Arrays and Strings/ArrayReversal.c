@@ -14,10 +14,6 @@ int main()
    {
        printf("%d ",arr[i]);
    }
-
-
-    /* Write the logic to reverse the array. */
-
    
 }
 
