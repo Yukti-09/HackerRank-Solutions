@@ -1,5 +1,3 @@
-
-# Complete the solve function below.
 def solve(s):
     st=""
     st+=s[0].upper()
