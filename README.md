@@ -2,5 +2,9 @@
 
 This repository contains my submissions on HackerRank.
 
-My HackerRank handle is:
-https://www.hackerrank.com/yuktikhosla?hr_r=1
+Link to my handle is [here](https://www.hackerrank.com/yuktikhosla?hr_r=1).
+
+## Clone this repository
+```
+$ git clone "https://github.com/Yukti-09/HackerRank-Solutions.git"
+```
