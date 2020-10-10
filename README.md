@@ -1,4 +1,5 @@
 # HackerRank-Solutions
+![](https://img.shields.io/github/repo-size/Yukti-09/HackerRank-Solutions)
 
 This repository contains my submissions on HackerRank.
 
